@@ -50,3 +50,16 @@ pip install pandas numpy matplotlib seaborn
 
 # Run Jupyter notebooks in order
 jupyter notebook
+
+## 👩‍💻 Author
+**Rehana Hassan**
+
+🔗 GitHub: [github.com/rihhanna](https://github.com/rihhanna)
+
+📧 Email: hrihhana@gmail.com
+
+🎓 IBM Data Analyst Certificate 
+
+---
+
+*Feel free to connect with me for collaboration or opportunities!*
